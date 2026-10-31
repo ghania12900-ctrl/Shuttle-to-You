@@ -1,4 +1,3 @@
-# Shuttle-to-You
 # Shuttle to You
 
 Answer five quick questions and a space shuttle flies you to the planet you relate to most. Your result comes as a boarding pass with your planet, a short reason it fits you, and a fun fact.
